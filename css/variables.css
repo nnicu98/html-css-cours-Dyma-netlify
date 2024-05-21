@@ -1,0 +1,13 @@
+:root {
+  --font-family: "Inconsolata", monospace;
+  --light:#00c3ff;
+  --primary:#2071e7;
+  --dark: #2980b9;
+  --text: #333;
+  --hint: #999;
+  --border:#ddd;
+  --background:#fafafa;
+  --border: #ddd;
+}
+
+/*# sourceMappingURL=variables.css.map */
